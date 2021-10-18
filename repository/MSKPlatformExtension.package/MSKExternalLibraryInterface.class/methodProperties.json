@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"byteArrayFor16BitInstances:" : "MSK 12/20/2013 08:28",
+		"byteArrayFor32BitInstances:" : "MSK 12/20/2013 08:28",
+		"byteArrayFor64BitInstances:" : "MSK 12/20/2013 08:28",
+		"byteArrayForByteInstances:" : "MSK 12/20/2013 08:28",
+		"cLibrary" : "MSK 12/20/2013 08:30",
+		"initializeFunctions" : "MSK 12/20/2013 08:30" },
+	"instance" : {
+		 } }

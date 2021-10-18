@@ -1,0 +1,14 @@
+{
+	"category" : "MSKPlatformExtension",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MSKExternalLibraryInterface",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
