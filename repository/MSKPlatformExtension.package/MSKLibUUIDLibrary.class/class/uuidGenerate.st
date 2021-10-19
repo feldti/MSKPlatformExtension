@@ -16,4 +16,4 @@ uuidGenerate
 	
 	^num pumPrintStringRadix: 62 showRadix: false"
 
-	^UUID new primMakeUUID asPUMIDString
+	^UUID new primMakeUUID
