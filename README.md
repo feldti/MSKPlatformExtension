@@ -11,3 +11,5 @@ Metacello new
   baseline: 'MSKPlatformExtension';
   load
 ```
+## Example
+In this package you find a small example to wrap the libuuid library of Linux. Have a look at the class MSKLibUUIDLibrary.
